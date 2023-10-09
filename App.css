@@ -10,7 +10,3 @@ ul,
 ol {
     list-style: none;
 }
-body {
-    background: url("./assets/images/bg1.png") no-repeat;
-    background-size: cover;
-}
